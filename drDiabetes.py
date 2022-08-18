@@ -1,15 +1,5 @@
 from sklearn import tree
 
-"""
-Grupo: Sirius
-
-Tomás Luchesi Machado - RM: 95157
-Lucas Kenji Marotta - RM: 93734
-Wellington Almeida - RM: 94373
-Bruno dos Santos Reis Curti - RM: 84243
-Gabriel José Carquejeiro Ferreira Teixeira - RM: 93506
-"""
-
 dicionario = {
     0:"Glicose Normal",
     1:"Glicose Diminuida",
